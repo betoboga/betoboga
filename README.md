@@ -6,6 +6,7 @@
 * I'm from a city in Spain called Avila.
 * I'm 22 years old
 * I like team work
+* Web application development student
 ### 🎓My certificates:
 * Google Activate "Introducción Desarrollo Web I y II"
 * Google Activate "Desarrollo de Apps Móviles"
